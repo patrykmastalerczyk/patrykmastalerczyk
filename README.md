@@ -5,10 +5,8 @@
 
 <h3>I often use these technologies 👇</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
 
 <h3>Take a look at my GitHub stats! 📊</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrykmastalerczyk&show_icons=true&locale=en" alt="patrykmastalerczyk" /></p>
