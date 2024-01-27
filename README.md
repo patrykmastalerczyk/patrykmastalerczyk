@@ -5,5 +5,5 @@
 
 <h3>I often use these technologies 👇</h3>
 
-<h2 align="left">Take a look at my GitHub stats! 📊</h2>
+<h3>Take a look at my GitHub stats! 📊</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrykmastalerczyk&show_icons=true&locale=en" alt="patrykmastalerczyk" /></p>
