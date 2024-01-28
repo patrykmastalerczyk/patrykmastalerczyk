@@ -3,6 +3,7 @@
 <h1 align="left">Hi there! 👋</h1> 
 <p>My name is Patryk, and I'm a self-taught software developer. I absolutely love learning about new technologies and taking on new challenges. I'm a stickler for details and always approach my work with precision and thoroughness. In the fast-paced world of programming, I find great satisfaction in staying ahead of the curve by constantly expanding my skill set.</p>
 
+<h3>Check out my LinkedIn!</h3>
 <a href="https://linkedin.com/in/patrykmastalerczyk" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrykmastalerczyk" height="30" width="40" />
 </a>
