@@ -10,6 +10,16 @@
 <img src="https://i.imgur.com/HqE4pgv.png" alt="java" width="30" height="30"/>
 <img src="https://i.imgur.com/i6gOy7d.png" alt="java" width="45" height="30"/>
 <img src="https://i.imgur.com/4l66OCO.png" alt="java" width="30" height="30"/>
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+
 </p>
 
 <h3>Take a look at my GitHub stats! 📊</h3>
