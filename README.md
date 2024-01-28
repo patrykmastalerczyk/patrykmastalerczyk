@@ -5,6 +5,7 @@
 
 <h3>I often work with these technologies 👇</h3>
 <img src="https://i.imgur.com/F3ae3cS.png" alt="java" width="40" height="40"/>
+<img src="https://i.imgur.com/XvSyeLg.png" alt="java" width="40" height="40"/>
 
 <h3>Take a look at my GitHub stats! 📊</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrykmastalerczyk&show_icons=true&locale=en" alt="patrykmastalerczyk" /></p>
