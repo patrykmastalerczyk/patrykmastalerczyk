@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/cWxRWyS.png" alt="java" width="20" height="20"/>
 <img src="https://i.imgur.com/HqE4pgv.png" alt="java" width="20" height="20"/>
 <img src="https://i.imgur.com/i6gOy7d.png" alt="java" width="30" height="20"/>
-<img src="https://i.imgur.com/4l66OCO.png" alt="java" width="30" height="20"/>
+<img src="https://i.imgur.com/4l66OCO.png" alt="java" width="20" height="20"/>
 </p>
 
 <h3>Take a look at my GitHub stats! 📊</h3>
