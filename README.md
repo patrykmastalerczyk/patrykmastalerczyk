@@ -16,10 +16,10 @@
 <img src="https://i.imgur.com/HqE4pgv.png" alt="java" width="30" height="30"/>
 <img src="https://i.imgur.com/i6gOy7d.png" alt="java" width="45" height="30"/>
 <img src="https://i.imgur.com/4l66OCO.png" alt="java" width="30" height="30"/>
--->
 
 
 </p>
 
 <h3>Take a look at my GitHub stats! 📊</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrykmastalerczyk&show_icons=true&locale=en" alt="patrykmastalerczyk" /></p>
+-->
